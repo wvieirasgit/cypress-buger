@@ -1,0 +1,50 @@
+{
+    "singup":{
+        "name": "Welder vieira silva",
+        "cpf": "00000014141",
+        "email": "welder@hotmmail.com",
+        "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "04534011",
+                "street": "Rua Joaquim Floriano",
+                "number": "1000",
+                "details": "AP 142",
+                "district": "Itaim Bibi",
+                "city_state": "São Paulo/SP"
+            },
+        "delivery_method": "Moto",
+        "cnh":"cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Welder vieira Sebastião",
+        "cpf": "x00000141AA",
+        "email": "welder.vieiras@hotmmail.com",
+        "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "04534011",
+                "street": "Rua Joaquim Floriano",
+                "number": "1000",
+                "details": "AP",
+                "district": "Itaim Bibi",
+                "city_state": "São Paulo/SP"  
+            },    
+        "delivery_method": "Moto",
+        "cnh":"cnh-digital.jpg"
+     },
+     "email_inv":{
+        "name": "Welder vieira silva",
+        "cpf": "00000014141",
+        "email": "hotmmail.com",
+        "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "04534011",
+                "street": "Rua Joaquim Floriano",
+                "number": "1000",
+                "details": "AP 142",
+                "district": "Itaim Bibi",
+                "city_state": "São Paulo/SP"
+            },
+        "delivery_method": "Moto",
+        "cnh":"cnh-digital.jpg"
+    }        
+}
